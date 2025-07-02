@@ -1,0 +1,12 @@
+
+## 📝 How to Run
+1. Open the `face_recognition_system.ipynb` notebook in Google Colab.
+2. Upload your images (or connect to Google Drive).
+3. Follow the cells step-by-step.
+4. Adjust or retrain with your own dataset if needed.
+
+## ⚠️ Disclaimer
+This system is built for academic and learning purposes. In real-world applications, always ensure privacy, consent, and ethical use.
+
+---
+
